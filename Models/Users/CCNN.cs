@@ -10,7 +10,8 @@ namespace EcMnt.Models.Users
         public CCNN()
         {
             int b = 1;
-            Console.WriteLine(b);
+            int c = 2;
+            Console.WriteLine(b,c);
         }
     }
 }
