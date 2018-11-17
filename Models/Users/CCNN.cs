@@ -7,6 +7,10 @@ namespace EcMnt.Models.Users
 {
     public class CCNN
     {
-
+        public CCNN()
+        {
+            int b = 1;
+            Console.WriteLine(b);
+        }
     }
 }
